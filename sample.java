@@ -1,4 +1,4 @@
-class sample
+class sample {
   public static void main(String[]args)
   {
     System.out.println("hello");
@@ -6,3 +6,4 @@ class sample
     System.out.println("devops");
     System.out.println("lab");
   }
+}
